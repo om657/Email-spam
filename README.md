@@ -17,7 +17,8 @@ This project implements an Email Spam Detection system using machine learning te
    git clone https://github.com/yourusername/email-spam-detection.git
    cd email-spam-detection
 
-   Usage
+Usage
+   
 Web API: Send email text as input via an HTTP request to classify it.
 Command Line: Run predict.py with a sample email text to classify it.
 Contributing
@@ -29,4 +30,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Author
 Om
 GitHub: github.com/om657
+
 Email: omgreat99@gmail.com
